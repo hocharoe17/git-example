@@ -1,5 +1,5 @@
 ;;; File:
-;;;   utils.rkt
+;;;   git-example/utils.rkt
 ;;; Author:
 ;;;   Serena Hocharoen
 ;;; Summary:
