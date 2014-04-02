@@ -1,3 +1,10 @@
+;;; File:
+;;;   utils.rkt
+;;; Author:
+;;;   Serena Hocharoen
+;;; Summary:
+;;;   A few sample utilities, created as part of a lab on GitHub.
+
 #lang racket
 (require gigls/unsafe)
 ;;; Procedure:
