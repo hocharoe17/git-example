@@ -1,5 +1,5 @@
 ;;; File:
-;;;   Git/git-example/utils.rkt
+;;;   git-example/utils.rkt
 ;;; Author:
 ;;;   Serena Hocharoen
 ;;; Summary:
@@ -21,6 +21,7 @@
 ;;;   (length list-of-nums) == n
 ;;;   (list-ref list-of-nums i) = i+1
 ;;;     for all i, 0 <= i < n.
+<<<<<<< HEAD
 (define one-to
   (lambda (n)
     (cdr (iota (+ n 1)))))
